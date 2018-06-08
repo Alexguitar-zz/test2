@@ -28,6 +28,4 @@ for i in range(19):
 condition1 = highest > lowest*1.14 and j > 2
 print (condition1)
 print(lowest * 1.14)
-
-
-# print(MID)
+print(MID)
